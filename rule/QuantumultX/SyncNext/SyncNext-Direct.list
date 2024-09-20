@@ -1,3 +1,4 @@
+#https://github.com/qoli/SyncnextClash
 host-suffix,movie.douban.com,SyncNext-Direct
 host-suffix,mddcloud.com.cn,SyncNext-Direct
 host-suffix,aliyundrive.asia,SyncNext-Direct
@@ -42,3 +43,4 @@ host-suffix,wogg.xyz,SyncNext-Direct
 host-suffix,pstatp.com,SyncNext-Direct
 host-keyword,tt.cuc.myqcloud.com.cn,SyncNext-Direct
 host-suffix,ikzybf.com,SyncNext-Direct
+host-suffix,bfikuncdn.com,SyncNext-Direct
